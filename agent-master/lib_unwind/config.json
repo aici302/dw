@@ -1,0 +1,5 @@
+{
+	"version_win_arm64_v1": "22.1.4",	
+	"filename_win_arm64_v1": "libunwind.dll",
+	"lib_dependencies_win_arm64_v1": []
+}

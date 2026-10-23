@@ -1,0 +1,10 @@
+2026-10-09 01:08:00,522 INFO MainThread Start agent manager
+2026-10-09 01:08:00,526 INFO MainThread System info: system='Windows', node='DESKTOP-8PONMNF', release='11', version='10.0.26200', machine='AMD64'
+2026-10-09 01:08:00,527 INFO MainThread Runtime info: Python 3.12.8
+2026-10-09 01:08:00,528 INFO MainThread SSL info: OpenSSL 3.0.15 3 Sep 2024 (TLSv1.2+)
+2026-10-09 01:08:00,530 INFO MainThread Native info: win_x86_64
+2026-10-09 01:08:00,548 INFO MainThread Agent enabled
+2026-10-09 01:08:00,550 INFO MainThread Node: node724536.dwservice.net
+2026-10-09 01:08:00,550 INFO MainThread Proxy: SYSTEM
+2026-10-09 01:08:00,550 INFO MainThread Initializing agent (key: oKBAKghvhBJegMXVnlSZ, node: node724536.dwservice.net)...
+2026-10-09 01:08:01,571 INFO MainThread Initialized agent (key: oKBAKghvhBJegMXVnlSZ, node: node724536.dwservice.net).

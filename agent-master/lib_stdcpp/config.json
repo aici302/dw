@@ -1,0 +1,8 @@
+{
+	"version_win": "8.1.0",
+	"version_win_arm64_v1": "22.1.4",	
+	"filename_win": "libstdc++-6.dll",
+	"filename_win_arm64_v1": "libc++.dll",
+	"lib_dependencies_win": ["gcc"],
+	"lib_dependencies_win_arm64_v1": ["unwind"]
+}
